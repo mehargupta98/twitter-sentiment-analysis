@@ -1,7 +1,7 @@
 
-# Twitter US Airline Sentiment
+# Twitter US Airline Sentiment Analysis
 
-Analyze how travelers in February 2015 expressed their feelings on Twitter.
+Analyze how travellers in February 2015 expressed their feelings on Twitter.
 
 The goal is to classify whether the sentiment of the text(present in the form of a tweet by someone) is negative, neutral or positive.
 
